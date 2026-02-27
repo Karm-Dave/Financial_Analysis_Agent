@@ -11,3 +11,11 @@ supabase==1.0.4
 pypdf
 sentence-transformers
 python-multipart
+rank-bm25
+numpy
+torch
+transformers
+huggingface_hub
+tokenizers
+pillow
+colbert-ai
